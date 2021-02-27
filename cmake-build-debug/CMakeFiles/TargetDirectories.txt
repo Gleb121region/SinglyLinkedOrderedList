@@ -1,0 +1,3 @@
+C:/Users/Gelog/Desktop/GG/cmake-build-debug/CMakeFiles/GG.dir
+C:/Users/Gelog/Desktop/GG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gelog/Desktop/GG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
